@@ -12,8 +12,6 @@ was how can we create a game that helps children learn colors in a fun way
 after researching we notice that Children always love games. With the advancement of technology, there are few games that integrate learning and play at the same time. for example one of the many children's games that we notice by researching that they like this type of game :
 
 
-
-
 ## Our Solution Concept : 
 so we came up with a solution for a small children's game that combines play and learning together in a simple way to help motivate them to learn new colors so that can enhance their developing
 
