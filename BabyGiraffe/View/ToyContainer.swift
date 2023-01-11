@@ -1,8 +1,8 @@
 //
 //  ToyContainer.swift
-//  BabyGiraffe
+//  game
 //
-//  Created by salma alorifi on 15/06/1444 AH.
+//
 //
 
 import SwiftUI
@@ -13,32 +13,33 @@ struct ToyContainer: View {
     private let regularSize: CGFloat = 100
     private let highlightedSize: CGFloat = 130
     
+    @State private var isRotating = false
+    @State private var isHidden = false
+    
     var body: some View {
         ZStack{
             Circle()
                 .fill(toy.color)
                 .frame(width: regularSize, height: regularSize)
+            
             if viewModel.isHighlighted(id: toy.id) {
                 Circle()
                     .fill(toy.color)
                     .opacity(0.5)
                     .frame(
                         width: highlightedSize,
-                        height: highlightedSize
-                    )
+                        height: highlightedSize)
             }
         }
-            .overlay {
-                GeometryReader { proxy -> Color in
-                    viewModel.update(
-                        frame: proxy.frame(in: .global),
-                        for: toy.id
-                    )
-                    
-                    return Color.clear
-                }
+        .overlay {
+            GeometryReader { proxy -> Color in
+                viewModel.update(
+                    frame: proxy.frame(in: .global),
+                    for: toy.id)
+                return Color.clear
             }
-            .frame(width: highlightedSize, height: highlightedSize)
+        }
+        .frame(width: highlightedSize, height: highlightedSize)
     }
 }
 
@@ -50,6 +51,7 @@ struct ToyContainer_Previews: PreviewProvider {
         )
     }
 }
+
 
 
 

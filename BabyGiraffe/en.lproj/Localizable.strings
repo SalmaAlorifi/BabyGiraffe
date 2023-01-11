@@ -1,12 +1,12 @@
 /* 
-  Localizable.strings
-  BabyGiraffe
+ Localizable.strings
+ BabyGiraffe
+ 
+ Created by salma alorifi on 16/06/1444 AH.
+ 
+ */
 
-  Created by salma alorifi on 16/06/1444 AH.
-  
-*/
-
-"Start" = "Start";
+"text1" = "Start";
 "text2" = "Help Giraffe to choose the correct color";
 "text3" = "Congratulations, you won! 🎉";
 "text4" = "Close";

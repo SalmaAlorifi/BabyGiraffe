@@ -14,7 +14,6 @@
 		8A4BAD96296B56CE0053C003 /* DraggableToy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A4BAD95296B56CE0053C003 /* DraggableToy.swift */; };
 		8A4BADB9296BEE5C0053C003 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8A4BADBB296BEE5C0053C003 /* Localizable.strings */; };
 		8ACD4CAA296A0469003ACE0A /* BabyGiraffeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACD4CA9296A0469003ACE0A /* BabyGiraffeApp.swift */; };
-		8ACD4CAC296A0469003ACE0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACD4CAB296A0469003ACE0A /* ContentView.swift */; };
 		8ACD4CAE296A046A003ACE0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8ACD4CAD296A046A003ACE0A /* Assets.xcassets */; };
 		8ACD4CB1296A046A003ACE0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8ACD4CB0296A046A003ACE0A /* Preview Assets.xcassets */; };
 		8ACD4CB8296A07A7003ACE0A /* Splach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACD4CB7296A07A7003ACE0A /* Splach.swift */; };
@@ -30,7 +29,6 @@
 		8A4BADBC296BEE5E0053C003 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8ACD4CA6296A0469003ACE0A /* BabyGiraffe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BabyGiraffe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ACD4CA9296A0469003ACE0A /* BabyGiraffeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BabyGiraffeApp.swift; sourceTree = "<group>"; };
-		8ACD4CAB296A0469003ACE0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8ACD4CAD296A046A003ACE0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8ACD4CB0296A046A003ACE0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8ACD4CB7296A07A7003ACE0A /* Splach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splach.swift; sourceTree = "<group>"; };
@@ -97,7 +95,6 @@
 				8A4BAD8A296B56300053C003 /* View */,
 				8ACD4CB7296A07A7003ACE0A /* Splach.swift */,
 				8ACD4CA9296A0469003ACE0A /* BabyGiraffeApp.swift */,
-				8ACD4CAB296A0469003ACE0A /* ContentView.swift */,
 				8A4BADBB296BEE5C0053C003 /* Localizable.strings */,
 				8ACD4CAD296A046A003ACE0A /* Assets.xcassets */,
 				8ACD4CAF296A046A003ACE0A /* Preview Content */,
@@ -185,7 +182,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8ACD4CAC296A0469003ACE0A /* ContentView.swift in Sources */,
 				8A4BAD94296B56B20053C003 /* ToyContainer.swift in Sources */,
 				8A4BAD96296B56CE0053C003 /* DraggableToy.swift in Sources */,
 				8A4BAD8E296B565E0053C003 /* ToyViewModel.swift in Sources */,
@@ -330,6 +326,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"BabyGiraffe/Preview Content\"";
@@ -359,6 +356,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"BabyGiraffe/Preview Content\"";

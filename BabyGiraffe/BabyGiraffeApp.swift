@@ -11,8 +11,8 @@ import SwiftUI
 struct BabyGiraffeApp: App {
     var body: some Scene {
         WindowGroup {
-            BabyToyView()
-            //Splach()
+           
+            Splach()
         }
     }
 }

@@ -22,9 +22,9 @@ extension Toy{
         Toy(id: 4, color: .purple),
         Toy(id: 5, color: .orange),
         Toy(id: 6, color: .yellow)
-    
-    
-    
+        
+        
+        
     ]
     
     
