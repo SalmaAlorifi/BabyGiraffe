@@ -1,4 +1,5 @@
 # BabyGiraffe Game 
+![Untitled design (1)](https://user-images.githubusercontent.com/116716645/211771406-a3f1de93-9148-4761-805f-646e15f83106.png)
 
 
 ## How did we come up with this idea :
