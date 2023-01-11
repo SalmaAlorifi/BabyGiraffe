@@ -1,10 +1,5 @@
 # BabyGiraffe Game 
-<img src="https://user-images.githubusercontent.com/116716645/211882894-a5901dbd-16b2-4d70-af2a-d26443e1fc34.png" width="400" height="400">
-
-![My project (19)](https://user-images.githubusercontent.com/116716645/211883030-bea90923-f4d6-42cf-940e-65c373b92bd7.png)
-
-![Untitled design (1) (1)](https://user-images.githubusercontent.com/116716645/211883097-12075fbf-c233-4add-8361-3cc063f95d83.png)
-
+<img src="https://user-images.githubusercontent.com/116716645/211882894-a5901dbd-16b2-4d70-af2a-d26443e1fc34.png" width="600" height="600">
 
 ## How did we come up with this idea :
 We wanted to create a game that is easy for children to play and learn from it.
