@@ -1,5 +1,6 @@
 # BabyGiraffe Game 
 ![Untitled design (1)](https://user-images.githubusercontent.com/116716645/211771406-a3f1de93-9148-4761-805f-646e15f83106.png)
+<img src="https://user-images.githubusercontent.com/116716645/211771406-a3f1de93-9148-4761-805f-646e15f83106.png" width="500" height="500">
 
 
 ## How did we come up with this idea :
@@ -10,8 +11,8 @@ Was how can we create a game that helps children learn colors in a fun way
 
 ## Our problem Statement :
 After researching we notice that Children always love games. With the advancement of technology, there are few games that integrate learning and play at the same time. for example one of the many children's games that we notice by researching that they like this type of game :
-![image](https://user-images.githubusercontent.com/116716645/211879623-6e4b4cd7-231d-4c73-9633-9dcd19929bbb.png )
-<img src="https://user-images.githubusercontent.com/116716645/211879623-6e4b4cd7-231d-4c73-9633-9dcd19929bbb.png" width="100" height="100">
+
+<img src="https://user-images.githubusercontent.com/116716645/211879623-6e4b4cd7-231d-4c73-9633-9dcd19929bbb.png" width="500" height="500">
 
 
 ## Our Solution Concept : 
