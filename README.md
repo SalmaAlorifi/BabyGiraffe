@@ -2,7 +2,7 @@
 <div>
 
 <h3><img align="left" width="200" height="200" src="App_Icon.png"> <br/>  BabyGiraffe Game  <br/>
- 
+ <h3 align="center">SwiftUI Game</h3>
  </div>  
  
 ---
