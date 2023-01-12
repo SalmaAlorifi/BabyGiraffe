@@ -24,15 +24,10 @@ After researching we notice that children always love games. With the advancemen
 ## Our Solution Concept : 
 So we came up with a solution for a small children's game that combines play and learning together in a simple way to help motivate them to learn new colors so that can enhance their developing.
 
-## Technologies & Tools:
-We create our game using SwiftUI with Xcode, and we create our design using Sketch
-here is a link for the design :
- [![SwiftUI][SwiftUI-img]][SwiftUI-url]   [![Sketch][Sketch-img]][Sketch-url] 
- 
- 
+## Technologies & Tools: 
  <p align="left"> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
- 
+Here is a link for the design : 
 https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
 
 
