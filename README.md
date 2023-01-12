@@ -50,7 +50,8 @@ https://drive.google.com/drive/folders/1AQYWdiX6f6K_L7_FnhO4QCAx0Nw29mHn?usp=sha
  
  ## Team:
  <a href="http://linkedin.com/in/salma-alorifi-0544801a6/"> Salma Alorifi </a> - 
-<a> Wadiah Albuhairi </a>
+
+<ahref="https://www.linkedin.com/in/wadiah-336306181?original_referer="> Wadiah Albuhairi </a>
 
 
 
