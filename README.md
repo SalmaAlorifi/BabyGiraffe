@@ -17,7 +17,7 @@
 - Was how can we create a game that helps children learn colors in a fun way.
 
 ## Problem Statement :
-- After researching we notice that children always love games. With the advancement of technology, there are few games that integrate learning and play at the same time. For example one of the many children's games that we notice by researching that they like this type of game :
+- After researching we notice that children always love to play games especially with the advancement of technology, there are few games that integrate learning and play at the same time , for example one of the many children's games that we notice by researching that they like to play this type of game :
 
  <h3 align="center"><img src="https://user-images.githubusercontent.com/116716645/211879623-6e4b4cd7-231d-4c73-9633-9dcd19929bbb.png" width="200" height="200"></h3>
 
