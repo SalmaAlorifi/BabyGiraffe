@@ -1,13 +1,13 @@
 <!-- PROJECT LOGO -->
 <div>
 
-<h3><img align="left" width="200" height="200" src="App_Icon.png"> <br/>  BabyGiraffe Game  <br/>
- <h3 align="center">SwiftUI Game</h3>
+<h3><img align="left" width="100" height="100" src="App_Icon.png"> <br/>  BabyGiraffe  <br/>
+ <h3 align="left">SwiftUI Game</h3>
  </div>  
  
 ---
 
- - How did we come up with this idea : **We wanted to create a game that is easy for children to play and learn from it.**
+ 
  
 ## How did we come up with this idea :
 We wanted to create a game that is easy for children to play and learn from it.
