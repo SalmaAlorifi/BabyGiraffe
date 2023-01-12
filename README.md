@@ -13,16 +13,16 @@
 -We wanted to create a game that is easy for children to play and learn from it.
 
  
-## Our main challenge:
+## Main challenge:
 -Was how can we create a game that helps children learn colors in a fun way.
 
-## Our problem Statement :
+## Problem Statement :
 -After researching we notice that children always love games. With the advancement of technology, there are few games that integrate learning and play at the same time. For example one of the many children's games that we notice by researching that they like this type of game :
 
 <img src="https://user-images.githubusercontent.com/116716645/211879623-6e4b4cd7-231d-4c73-9633-9dcd19929bbb.png" width="400" height="400">
 
 
-## Our Solution Concept : 
+## Solution Concept : 
 -So we came up with a solution for a small children's game that combines play and learning together in a simple way to help motivate them to learn new colors so that can enhance their developing.
 
 ## Technologies & Tools: 
