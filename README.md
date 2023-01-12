@@ -50,7 +50,7 @@ In the beginning, when we started creating the mini-educational game for childre
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/salma-alorifi-0544801a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salma-alorifi-0544801a6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salma alorifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma alorifi" height="30" width="40" /></a>
 </p>
 
 
