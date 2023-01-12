@@ -7,6 +7,8 @@
  
 ---
 
+ 
+ 
 ## How did we come up with this idea :
 We wanted to create a game that is easy for children to play and learn from it.
 
@@ -25,6 +27,7 @@ So we came up with a solution for a small children's game that combines play and
 ## Technologies & Tools:
 We create our game using SwiftUI with Xcode, and we create our design using Sketch
 here is a link for the design :
+ [![SwiftUI][SwiftUI-img]][SwiftUI-url]   [![Sketch][Sketch-img]][Sketch-url] 
 https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
 
 
