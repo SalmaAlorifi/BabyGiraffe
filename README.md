@@ -47,8 +47,8 @@ In the beginning, when we started creating the mini-educational game for childre
 
  
  ## Team:
- Salma Alorifi 
- Wadiah Albuhairi
+ <a href="http://linkedin.com/in/salma-alorifi-0544801a6/"> Salma Alorifi </a> - 
+<a> Wadiah Albuhairi </a>
 
 
 
