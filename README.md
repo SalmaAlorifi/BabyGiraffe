@@ -25,7 +25,7 @@ After researching we notice that children always love games. With the advancemen
 So we came up with a solution for a small children's game that combines play and learning together in a simple way to help motivate them to learn new colors so that can enhance their developing.
 
 ## Technologies & Tools: 
- <p align="left"> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+ [![SwiftUI][SwiftUI-img]][SwiftUI-url]   [![Sketch][Sketch-img]][Sketch-url]  
 
 Here is a link for the design : 
 https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
@@ -52,7 +52,17 @@ In the beginning, when we started creating the mini-educational game for childre
 
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
 
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
+
+[SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
+
+[Sketch-img]: https://img.shields.io/badge/-Sketch-yellow
+
+[Sketch-url]: https://www.sketch.com
 
 
 
