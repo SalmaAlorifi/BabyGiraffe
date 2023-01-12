@@ -3,7 +3,7 @@
 
 <div>
 
-<h3><img align="left" width="100" height="100" src="App Icon.jpeg"> <br/> My Colors <br/>
+<h3><img align="left" width="100" height="100" src="App Icon.png"> <br/> BabyGiraffe Game  <br/>
  
  </div>  
  
