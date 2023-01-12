@@ -1,13 +1,11 @@
-# BabyGiraffe Game 
-
-
+<!-- PROJECT LOGO -->
 <div>
 
 <h3><img align="left" width="100" height="100" src="App Icon.png"> <br/> BabyGiraffe Game  <br/>
  
  </div>  
  
-<img src="https://user-images.githubusercontent.com/116716645/211883423-2ebdd6bd-dd6e-4204-aca3-a225f68d47be.png" width="400" height="400">
+
 
 ## How did we come up with this idea :
 We wanted to create a game that is easy for children to play and learn from it.
