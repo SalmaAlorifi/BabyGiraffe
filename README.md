@@ -26,7 +26,7 @@ After researching we notice that children always love games. With the advancemen
 So we came up with a solution for a small children's game that combines play and learning together in a simple way to help motivate them to learn new colors so that can enhance their developing.
 
 ## Technologies & Tools: 
-We create our game using [![SwiftUI][SwiftUI-img]][SwiftUI-url][![Sketch][Sketch-img]][Sketch-url]  
+We create our game using [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]  
  
 
 Here is a link for the design : 
