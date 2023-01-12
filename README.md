@@ -45,6 +45,13 @@ https://drive.google.com/drive/folders/1AQYWdiX6f6K_L7_FnhO4QCAx0Nw29mHn?usp=sha
 ## Challenge Summary:
 In the beginning, when we started creating the mini-educational game for children, we tried to benefit the largest number of children, so we added accessibility, we had difficulty with Any feature that is appropriate for the application, so we decided to reduce motion, applied it, and added localization in to benefit many children.
 
+ 
+ ## Team:
+ 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/http://linkedin.com/in/salma-alorifi-0544801a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/salma-alorifi-0544801a6" height="30" width="40" /></a>
+</p>
 
 
 
