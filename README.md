@@ -27,6 +27,8 @@ So we came up with a solution for a small children's game that combines play and
 
 ## Technologies & Tools: 
  [![SwiftUI][SwiftUI-img]][SwiftUI-url]   [![Sketch][Sketch-img]][Sketch-url]  
+ 
+ <p align="left"> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 Here is a link for the design : 
 https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
