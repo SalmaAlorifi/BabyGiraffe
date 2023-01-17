@@ -30,9 +30,7 @@
 - We create our game using [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Sketch][Sketch-img]][Sketch-url]  
  
 
-- Here is a link for the design : 
-- <a href="https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
-"> Design </a> 
+- Here is a link for the design : <a href="https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935"> Design </a> 
 
 
 
