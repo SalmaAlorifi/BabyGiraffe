@@ -36,13 +36,13 @@ https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
 
 ## Demo for our game: 
 - The first demo is for localization feature as you can see the game supports both the Arabic and English languages :
-<a href="https://drive.google.com/drive/folders/1a4NDh2UKYR-xCf_4HVKu5qcWw_KijeLY?usp=sharing"> Localization Demo </a> -
+<a href="https://drive.google.com/drive/folders/1a4NDh2UKYR-xCf_4HVKu5qcWw_KijeLY?usp=sharing"> Localization Demo </a> 
 
 
 
 
 - The second demo is for accessibility feature as you can see we add the "Reduce Motion" accessibility into the game :
-<a href="https://drive.google.com/drive/folders/1AQYWdiX6f6K_L7_FnhO4QCAx0Nw29mHn?usp=sharing"> Accessibility Demo </a> -
+<a href="https://drive.google.com/drive/folders/1AQYWdiX6f6K_L7_FnhO4QCAx0Nw29mHn?usp=sharing"> Accessibility Demo </a> 
 
 
 
