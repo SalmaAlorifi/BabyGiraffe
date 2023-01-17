@@ -31,7 +31,9 @@
  
 
 - Here is a link for the design : 
-https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
+- <a href="https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
+"> Design </a> 
+
 
 
 ## Demo for our game: 
